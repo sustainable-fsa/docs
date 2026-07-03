@@ -71,3 +71,15 @@ All documents are unaltered copies of US government publications (public domain,
 ## Support
 
 Part of the [*Enhancing Sustainable Disaster Relief in FSA Programs*](https://www.ars.usda.gov/research/project/?accnNo=444612) project. Supported by USDA OCE/OEEP and the USDA Climate Hubs. Prepared by the [Montana Climate Office](https://climate.umt.edu), University of Montana.
+
+## 📝 Citation
+
+If you use this data in published work, please cite:
+
+> United States Government (various agencies). *Sustainable FSA Document Library*. Curated and archived by R. Kyle Bocinsky, Montana Climate Office, University of Montana. Sustainable FSA project. Accessed YYYY-MM-DD. <https://sustainable-fsa.com/documents/>
+
+Machine-readable metadata are in [`CITATION.cff`](CITATION.cff); GitHub's **Cite this repository** button (top right of the repo page) renders it as APA or BibTeX.
+
+When citing an individual document, cite the underlying government publication directly (see the manifest above); cite this archive for the collection or for link-rot-resistant access.
+
+**Acknowledgment**: This work is part of the [*Enhancing Sustainable Disaster Relief in FSA Programs*](https://www.ars.usda.gov/research/project/?accnNo=444612) project, supported by the USDA Office of the Chief Economist, Office of Energy and Environmental Policy, and the USDA Climate Hubs.
