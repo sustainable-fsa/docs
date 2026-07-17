@@ -25,6 +25,7 @@ Federal program guidance is a moving target: FSA's handbook library links only t
 | File | Document | Date |
 | --- | --- | --- |
 | [`nap-190.pdf`](nap-190.pdf) | Notice NAP-190: Review of Normal Grazing Periods and Carrying Capacities for NAP, LFP, and ELAP ([original](https://www.fsa.usda.gov/Internet/FSA_Notice/nap_190.pdf)) | 8-10-17 |
+| [`elap-19.pdf`](elap-19.pdf) | Notice ELAP-19: 2024 and Subsequent Year ELAP Normal Grazing Periods for Perennial Forages ([original](https://www.fsa.usda.gov/Internet/FSA_Notice/elap_19.pdf)) | 3-5-24 |
 | [`lfp-7.pdf`](lfp-7.pdf) | Notice LFP-7: 2026 LFP Payment Rates ([original](https://www.fsa.usda.gov/Internet/FSA_Notice/lfp_7.pdf)) | 4-22-26 |
 
 ## Statutes
