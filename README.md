@@ -2,7 +2,7 @@
 
 The FSA handbooks, notices, statutes, Federal Register rules, and oversight reports that govern the USDA **Livestock Forage Disaster Program (LFP)** and its companion disaster programs — archived here so the exact versions cited in the [Sustainable FSA](https://sustainable-fsa.com) project's analyses stay accessible even after agencies supersede or remove them.
 
-Federal program guidance is a moving target: FSA's handbook library links only the current amendment of each handbook, FSA notices carry disposal dates, and superseded documents can vanish from agency servers without notice. Every file below is served at `https://sustainable-fsa.com/docs/<filename>` and browsable with context at [sustainable-fsa.com/documents](https://sustainable-fsa.com/documents/).
+Federal program guidance is a moving target: FSA's handbook library links only the current amendment of each handbook, FSA notices carry disposal dates, and superseded documents can vanish from agency servers without notice. Every file below is served at `https://sustainable-fsa.com/docs/<filename>` and browsable with context at [sustainable-fsa.com/library](https://sustainable-fsa.com/library/).
 
 ## FSA handbooks
 
@@ -77,7 +77,7 @@ Part of the [*Enhancing Sustainable Disaster Relief in FSA Programs*](https://ww
 
 If you use this data in published work, please cite:
 
-> United States Government (various agencies). *Sustainable FSA Document Library*. Curated and archived by R. Kyle Bocinsky, Montana Climate Office, University of Montana. Sustainable FSA project. Accessed YYYY-MM-DD. <https://sustainable-fsa.com/documents/>
+> United States Government (various agencies). *Sustainable FSA Document Library*. Curated and archived by R. Kyle Bocinsky, Montana Climate Office, University of Montana. Sustainable FSA project. Accessed YYYY-MM-DD. <https://sustainable-fsa.com/library/>
 
 Machine-readable metadata are in [`CITATION.cff`](CITATION.cff); GitHub's **Cite this repository** button (top right of the repo page) renders it as APA or BibTeX.
 
